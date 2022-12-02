@@ -33,6 +33,7 @@ function firstQuestion(){
       })
 }
 
+
  // switch button position
  function switchButton() {
     var audio = new Audio('sound/duck.mp3');

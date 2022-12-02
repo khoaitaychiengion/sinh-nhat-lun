@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hé lu bạn Ngân!!!',
-    introDesc: `Còn dận tui đún hemm.
-    thui đừng có dận  nữa mà!!!`,
-    btnIntro: 'hihi',
-    title: 'Hỏi lần cúi này.. 😙',
-    desc: 'Có còn dận tui nữa hơm??? ',
-    btnYes: 'Hết ùiii <33',
-    btnNo: 'Giận tím người :3',
-    question:'Ngân thấy t như nào??? <3',
-    btnReply: 'Gửi cho tui <3',
-    reply: 'Cuteee, hiền xĩu, ít nói, tốt pụng... <33333333',
-    mess: 'Ỏỏỏỏỏỏỏỏỏ :))). Tui pít mà 😘😘',
-    messDesc: 'Thích gê lun trùi uiii.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Xin chào quý khách đã đến với trang web của ptb!!!',
+    introDesc: `Có một điều bất ngờ ở phía trước.
+    Đang chờ quý khách khám phá!!!`,
+    btnIntro: 'Bắt đầu thuii =))',
+    title: 'Trước khi bắt đầu, xin phép hỏi 1 câu... 😙',
+    desc: 'Quý khách thấy chủ trang web này có kutee hơm?? Tin tui đii, kbh chọn không đc đâu :))',
+    btnYes: 'Siuuu dth luôn ó 😘',
+    btnNo: 'Không hề =)))',
+    question:'Đố biết tui sắp nói cái gì??? <3',
+    btnReply: 'Gửi cho tui đi',
+    reply: 'Hôm nay là ngày 1 thiên thần ra đời đó!!',
+    mess: 'HAPPY BIRTHDAY TO NGÂN 😘😘',
+    messDesc: 'Tủi mới lun zui, mau zàu, rảnh dắt tui dề GL chơi nữa !!!',
+    btnAccept: 'Okeee lun 😙😙',
     messLink: 'https://www.facebook.com/profile.php?id=100014699509183'
 }

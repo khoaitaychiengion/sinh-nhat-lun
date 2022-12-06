@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'HAPPY BIRTHDAY TO NGÂN 😘😘',
     messDesc: 'Bất ngờ chưaaaa !!!',
     btnAccept: 'Còn nữa, chưa hết đâuu 😙😙',
-    messLink: 'https://sites.google.com/view/tang-ngan'
+    messLink: 'https://sites.google.com/view/tang-ngan/home'
 }

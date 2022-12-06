@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tui đi',
     reply: 'Hôm nay là ngày 1 thiên thần ra đời đó!!',
     mess: 'HAPPY BIRTHDAY TO NGÂN 😘😘',
-    messDesc: 'Tủi mới lun zui, mau zàu, rảnh dắt tui dề GL chơi nữa !!!',
-    btnAccept: 'Okeeee luôngg 😙😙',
-    messLink: 'https://www.facebook.com/profile.php?id=100014699509183'
+    messDesc: 'Bất ngờ chưaaaa !!!',
+    btnAccept: 'Còn nữa, chưa hết đâuu 😙😙',
+    messLink: 'https://sites.google.com/view/tang-ngan'
 }

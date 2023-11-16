@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'HAPPY BIRTHDAY TO LÙN 🎂🎂',
     messDesc: 'Cả ngày không nói tiếng nào là có lí do nghe !!',
     btnAccept: 'Chưa hết, chưa hết 😙😙',
-    messLink: 'https://sites.google.com/view/sinh-nhat-lun'
+    messLink: 'https://sites.google.com/view/sinh-nhat-mike'
 }

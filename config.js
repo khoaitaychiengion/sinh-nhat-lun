@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Mày nghĩ sao nếu tao nói là tao hack được cái bàn phím của mày 🫠',
     btnReply: 'Điều vui còn ở phía trước',
     reply: 'Tao đã nói là hack được mà. Đừng có cố nữa, chấp nhận sự thật đii 😇',
-    mess: 'HAPPY BIRTHDAY TO LÙN 🎂🎂',
+    mess: 'HAPPY BIRTHDAY TO YOUUU 🎂🎂',
     messDesc: 'Cả ngày không nói tiếng nào là có lí do nghe !!',
     btnAccept: 'Chưa hết, chưa hết 😙😙',
     messLink: 'https://sites.google.com/view/sinh-nhat-mike'

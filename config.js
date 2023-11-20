@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Điều vui vẫn còn',
     reply: 'Tao đã nói là hack được mà. Đừng có cố nữa, chấp nhận sự thật đii 😇',
     mess: 'HAPPY BIRTHDAY TO YOUUU 🎂🎂',
-    messDesc: 'Cả ngày không nói tiếng nào là có lí do nghe !!',
+    messDesc: 'Si nghĩ quài mà không biết mua cái gì. Nên là làm cái này !!',
     btnAccept: 'Chưa hết, chưa hết 😙😙',
     messLink: 'https://sites.google.com/view/sinh-nhat-mike'
 }
